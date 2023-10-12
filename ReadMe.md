@@ -41,4 +41,7 @@ import CircularProgress from 'react-native-circular-progress-indicator';
           }}
         />
         ```
-
+```
+## Screenshot
+<img width="314" alt="image" src="https://github.com/KhushiKri10/react-native-custom-animated-progressbar/assets/53595245/6c2f1226-5366-4672-9571-824ce61f2f4b">
+```
