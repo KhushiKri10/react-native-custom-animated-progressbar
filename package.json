@@ -1,0 +1,15 @@
+{
+  "name": "react-native-custom-animated-progressbar",
+  "version": "1.0.1",
+  "description": "This is simple animated progress bar component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khushi-kumri-96",
+  "license": "ISC",
+  "peerDependencies":{
+    "react": "18.2.0",
+    "react-native": "0.72.5"
+  }
+}
