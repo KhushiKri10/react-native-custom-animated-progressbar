@@ -42,4 +42,3 @@ import CircularProgress from 'react-native-circular-progress-indicator';
         />
         ```
 
-        ![](/Users/khushikumari/Documents/QBurst/ProgressBar/image.png)
