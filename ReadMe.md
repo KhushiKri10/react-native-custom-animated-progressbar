@@ -44,6 +44,11 @@ import AnimatedProgressBar from 'react-native-custom-animated-progressbar';
 ## Screenshot
 <img width="314" alt="image" src="https://github.com/KhushiKri10/react-native-custom-animated-progressbar/assets/53595245/6c2f1226-5366-4672-9571-824ce61f2f4b">
 
+## Gif
+![progress_bar](https://github.com/KhushiKri10/react-native-custom-animated-progressbar/assets/53595245/a71d0ef7-07eb-41be-a50f-fdd66baa3cd3)
+
+
+
 
 ## props
 
